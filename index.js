@@ -1,38 +1,38 @@
-// // ex1
-// let teststring = 'lala'
-// console.log(teststring)
+// ex1
+let teststring = 'lala'
+console.log(teststring)
 
-// let testnumber = 8
-// console.log(testnumber)
+let testnumber = 8
+console.log(testnumber)
 
-// var testboolean = true
-// console.log(testboolean)
+var testboolean = true
+console.log(testboolean)
 
-// const testundefiend = undefined
-// console.log(testundefiend)
+const testundefiend = undefined
+console.log(testundefiend)
 
-// let testnull = null
-// console.log(testnull)
+let testnull = null
+console.log(testnull)
 
-// let testbigint = BigInt(900)
-// console.log(testbigint)
+let testbigint = BigInt(900)
+console.log(testbigint)
 
-// let testsymbol = Symbol('')
-// console.log(testsymbol)
+let testsymbol = Symbol('')
+console.log(testsymbol)
 
-// let testobject = {
-//     color: 'green'}
-// console.log(testobject)
+let testobject = {
+    color: 'green'}
+console.log(testobject)
 
 // // ex2
-// console.log(typeof teststring)
-// console.log(typeof testnumber)
-// console.log(typeof testboolean)
-// console.log(typeof testundefiend)
-// console.log(typeof testnull)
-// console.log(typeof testbigint)
-// console.log(typeof testsymbol)
-// console.log(typeof testobject)
+console.log(typeof teststring)
+console.log(typeof testnumber)
+console.log(typeof testboolean)
+console.log(typeof testundefiend)
+console.log(typeof testnull)
+console.log(typeof testbigint)
+console.log(typeof testsymbol)
+console.log(typeof testobject)
 
 //ex3 (+, ++, -, --, /, *, **, >, <, >=, <=, !, ==, ===)
 
